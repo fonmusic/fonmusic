@@ -24,6 +24,7 @@
 
 ## 🤝 Connect with me
 
-[![i@ksergey.ru](https://img.shields.io/badge/dmitriimusique@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:dmitriimusique@gmail.com)
-[![iksergeyru](https://img.shields.io/badge/@fonmusic-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fonmusic)
+[![linkedin](https://img.shields.io/badge/@fonmusic-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitriicherviakov/)
+[![gmail](https://img.shields.io/badge/dmitriimusique@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmitriimusique@gmail.com)
+[![telegram](https://img.shields.io/badge/@fonmusic-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fonmusic)
 [![youtube](https://img.shields.io/badge/@fonmusic%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@dmitriimusique/videos)
