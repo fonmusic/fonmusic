@@ -16,6 +16,7 @@
 ![swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
+![markdown](https://img.shields.io/badge/Wwise-%23000000.svg?&style=for-the-badge&logo=wwise&logoColor=blue)
 
 
 ![](https://gist.github.com/bgoonz/435f42a8617fbb854418d84a097073c8)

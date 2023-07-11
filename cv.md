@@ -1,6 +1,6 @@
 # Resume
 
-## Dmitry Alexandrovich Cherviakov
+## Dmitrii Alexandrovich Cherviakov
 Male, 37 years old  
 Date of Birth: June 5, 1986  
 Location: Turkey  
@@ -25,7 +25,7 @@ _Department Head of Licensing_
 - Licensing music for advertising and film
 - Organizing music production for advertising and film
 
-### Individual Entrepreneur Dmitry Alexandrovich Cherviakov (August 2014 - Present)
+### Individual Entrepreneur Dmitrii Alexandrovich Cherviakov (August 2014 - Present)
 _Composer/Arranger_
 - Working on creating musical compositions, arrangements, recording instrument parts
 - Participation in music activities of bands/artists
@@ -60,17 +60,16 @@ _Head of Certification, Accreditation, and Licensing Department_
 - Docker and Containerization
 - English Language (B2 level)
 
+**Additional skills:**
+- Bootstrap
+- Java
+- Swift
+- Python
+- Interactive Audio (Wwise, FMOD, REAPER)
+
 **Additional Information:**
-I am a developer with a focus on web and game development. My skills include:
 
-- Programming Languages: C#
-- Frameworks and Platforms: .NET, ASP.NET Core, Entity Framework, Angular, Unity
-- Databases: SQLite, MS SQL Server
-- Web Development: TypeScript, HTML, CSS
-- Game Engines: Unity
-- Docker and Containerization
-
-I have experience working on various projects, including web application development using .NET and Angular, game development using Unity, and development of class libraries. I have the ability to develop structured, modular, and efficient code, following OOP principles and best practices.
+I am a developer with a focus on web and game development. I have experience working on various projects, including web application development using .NET and Angular, game development using Unity, and development of class libraries. I have the ability to develop structured, modular, and efficient code, following OOP principles and best practices.
 
 I am committed to continuous learning and improving my skills. I am quick to learn and adapt to new technologies and programming languages. I also have a keen interest in exploring new software and technologies. I have a broad range of interests beyond programming, and I believe that the best solutions and innovations arise at the intersection of different fields. In my hobbies, I deeply study architecture and history. I also have extensive experience in music, including both creation and rights management.
 
