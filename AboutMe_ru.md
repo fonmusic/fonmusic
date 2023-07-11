@@ -4,7 +4,7 @@
 * Языки программирования: C#
 * Фреймворки и платформы: .NET, ASP.NET Core, Entity Framework, Angular, Unity
 * Базы данных: SQLite, MS SQL Server
-* Веб*разработка: TypeScript, HTML, CSS, 
+* Веб-разработка: TypeScript, HTML, CSS, 
 * Игровые движки: Unity
 * Docker и контейнеризация
 
