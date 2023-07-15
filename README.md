@@ -29,4 +29,4 @@
 [![gmail](https://img.shields.io/badge/dmitriimusique@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmitriimusique@gmail.com)
 [![telegram](https://img.shields.io/badge/@fonmusic-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fonmusic)
 [![youtube](https://img.shields.io/badge/@fonmusic%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@dmitriimusique/videos)
-[![fonmusic](https://img.shields.io/badge/fonmusic.github.io%20-%20%.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://fonmusic.github.io)
+[![fonmusic](https://img.shields.io/badge/fonmusic.github.io-2CA5E0?&style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://fonmusic.github.io)
