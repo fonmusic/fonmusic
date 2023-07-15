@@ -1,76 +1,163 @@
-# CV
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CV - Dmitrii Cherviakov</title>
+  <style>
+    body {
+      font-family: 'Courier New', Courier, monospace;
+      background-color: #f5f5f5;
+      margin: 0;
+      padding: 20px;
+    }
+    h1 {
+      margin-top: 0;
+      text-align: center;
+      font-size: 32px;
+    }
+    img {
+      float: right;
+      margin-left: 20px;
+      margin-bottom: 20px;
+      border-radius: 10%;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+    h2 {
+      margin-top: 30px;
+      font-size: 26px;
+    }
+    h3 {
+      font-size: 20px;
+    }
+    h4 {
+      font-size: 18px;
+    }
+    p, ul {
+      font-size: 16px;
+      margin-bottom: 10px;
+    }
+    ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
+    ul li:before {
+      content: "•";
+      margin-right: 5px;
+      color: #4285F4;
+    }
+    a {
+      color: #4285F4;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>CV</h1>
 
-## Dmitrii Cherviakov
-<img src="images/me.jpg" alt="Описание изображения" width="145" height="107">
+  <div>
+    <h2>Dmitrii Cherviakov</h2>
+    <div>
+      <img src="images/me.jpg" alt="My photo" width="145" height="107">
+      <h3>Developer</h3>
+      <p>Location: Turkey<br>
+        Citizenship: Russia<br>
+        Willing to relocate, willing to travel
+      </p>
+    </div>
+  </div>
 
-### Developer
+  <h4>Contact Information:</h4>
+  <ul>
+    <li>+79858747450</li>
+    <li><a href="https://t.me/fonmusic">Telegram</a></li>
+    <li><a href="mailto:dmitriimusique@gmail.com">dmitriimusique@gmail.com</a></li>
+    <li><a href="https://www.linkedin.com/in/dmitriicherviakov/">LinkedIn Profile</a></li>
+    <li><a href="https://github.com/fonmusic">GitHub Profile</a></li>
+  </ul>
 
-Location: Turkey  
-Citizenship: Russia   
-Willing to relocate, willing to travel
+  <h4>Work Schedule:</h4>
+  <p>Full-time, remote</p>
 
-**Contact Information:**  
-Phone: +79858747450  
-https://t.me/fonmusic  
-dmitriimusique@gmail.com  
-[LinkedIn Profile](https://www.linkedin.com/in/dmitriicherviakov/)  
-[GitHub Profile](https://github.com/fonmusic)
+  <h2>Work Experience:</h2>
 
-**Work Schedule:** Full-time, remote
+  <h4>OOO "Snegiri-Musica" (January 2017 - Present)</h4>
+  <p><em>Department Head of Licensing</em></p>
+  <ul>
+    <li>Licensing music for advertising and film</li>
+    <li>Organizing music production for advertising and film</li>
+  </ul>
 
-## **Work Experience:**
+  <h4>Individual Entrepreneur Dmitrii Alexandrovich Cherviakov (August 2014 - Present)</h4>
+  <p><em>Composer/Arranger</em></p>
+  <ul>
+    <li>Working on creating musical compositions, arrangements, recording instrument parts</li>
+    <li>Participation in music activities of bands/artists</li>
+    <li>Creating music and sound design for video brands</li>
+  </ul>
 
-#### OOO "Snegiri-Musica" (January 2017 - Present)
-_Department Head of Licensing_
-- Licensing music for advertising and film
-- Organizing music production for advertising and film
+  <h4>OOO "Snegiri-Musica" (June 2015 - December 2016)</h4>
+  <p><em>Music Licensing Specialist</em></p>
+  <ul>
+    <li>Licensing music for advertising and film</li>
+  </ul>
 
-#### Individual Entrepreneur Dmitrii Alexandrovich Cherviakov (August 2014 - Present)
-_Composer/Arranger_
-- Working on creating musical compositions, arrangements, recording instrument parts
-- Participation in music activities of bands/artists
-- Creating music and sound design for video brands
+  <h4>Ivanovo State University (January 2009 - March 2014)</h4>
+  <p><em>Head of Certification, Accreditation, and Licensing Department</em></p>
+  <ul>
+    <li>Processing licenses for educational activities and undergoing accreditation procedures for educational programs</li>
+  </ul>
 
-#### OOO "Snegiri-Musica" (June 2015 - December 2016)
-_Music Licensing Specialist_
-- Licensing music for advertising and film
+  <h2>Education:</h2>
+  <ul>
+    <li>Bachelor's Degree (2008): Ivanovo State University, Ivanovo, Russia</li>
+    <ul>
+      <li>Major: Jurisprudence</li>
+    </ul>
+  </ul>
 
-#### Ivanovo State University (January 2009 - March 2014)
-_Head of Certification, Accreditation, and Licensing Department_
-- Processing licenses for educational activities and undergoing accreditation procedures for educational programs
+  <h4>Professional Development, Courses:</h4>
+  <ul>
+    <li>2022: Unity Game Development, GeekBrains, Developer</li>
+    <li>2022: C# Developer, GeekBrains, Developer</li>
+    <li>2022: Reverse Engineering and Synthesis, XSSR Academy, Audio Designer</li>
+    <li>2021: Sound Design for Games and Videos, XSSR Academy, Sound Designer</li>
+    <li>2021: Interactive Sound and Audio Effects, XSSR Academy, Audio Designer</li>
+    <li>2021: Music Composition for Games and Videos, XSSR Academy, Composer</li>
+  </ul>
 
-## **Education:**
-- Bachelor's Degree (2008): Ivanovo State University, Ivanovo, Russia
-  - Major: Jurisprudence
+  <h4>Key Skills:</h4>
+  <ul>
+    <li>Programming Languages: C#</li>
+    <li>Frameworks and Platforms: .NET, ASP.NET Core, Entity Framework, Angular, Unity</li>
+    <li>Databases: SQLite, MS SQL Server</li>
+    <li>Web Development: TypeScript, HTML, CSS</li>
+    <li>Game Engines: Unity</li>
+    <li>Docker and Containerization</li>
+    <li>English Language (B2 level)</li>
+  </ul>
 
-**Professional Development, Courses:**
-- 2022: Unity Game Development, GeekBrains, Developer
-- 2022: C# Developer, GeekBrains, Developer
-- 2022: Reverse Engineering and Synthesis, XSSR Academy, Audio Designer
-- 2021: Sound Design for Games and Videos, XSSR Academy, Sound Designer
-- 2021: Interactive Sound and Audio Effects, XSSR Academy, Audio Designer
-- 2021: Music Composition for Games and Videos, XSSR Academy, Composer
+  <h4>Additional skills:</h4>
+  <ul>
+    <li>Bootstrap</li>
+    <li>Java</li>
+    <li>Swift</li>
+    <li>Python</li>
+    <li>Interactive Audio (Wwise, FMOD, REAPER)</li>
+  </ul>
 
-**Key Skills:**
-- Programming Languages: C#
-- Frameworks and Platforms: .NET, ASP.NET Core, Entity Framework, Angular, Unity
-- Databases: SQLite, MS SQL Server
-- Web Development: TypeScript, HTML, CSS
-- Game Engines: Unity
-- Docker and Containerization
-- English Language (B2 level)
-
-**Additional skills:**
-- Bootstrap
-- Java
-- Swift
-- Python
-- Interactive Audio (Wwise, FMOD, REAPER)
-
-**Additional Information:**
-
-I am a developer with a focus on backend, web and game development. I have experience working on various projects, including web application development using `.NET` and `Angular`, game development using `Unity`, and development of class libraries. I have the ability to develop structured, modular, and efficient code, following OOP principles and best practices.
-
-I am committed to continuous learning and improving my skills. I am quick to learn and adapt to new technologies and programming languages. I also have a keen interest in exploring new software and technologies. I have a broad range of interests beyond programming, and I believe that the best solutions and innovations arise at the intersection of different fields. In my hobbies, I deeply study architecture and history. I also have extensive experience in music, including both creation and rights management.
-
-I am seeking an opportunity to apply my knowledge and experience in exciting projects, working with a team of dedicated professionals. I would be glad to contribute and help achieve success in software development.
+  <h4>Additional Information:</h4>
+  <p>
+    I am a developer with a focus on backend, web and game development. I have experience working on various projects, including web application development using .NET and Angular, game development using Unity, and development of class libraries. I have the ability to develop structured, modular, and efficient code, following OOP principles and best practices.
+  </p>
+  <p>
+    I am committed to continuous learning and improving my skills. I am quick to learn and adapt to new technologies and programming languages. I also have a keen interest in exploring new software and technologies. I have a broad range of interests beyond programming, and I believe that the best solutions and innovations arise at the intersection of different fields. In my hobbies, I deeply study architecture and history. I also have extensive experience in music, including both creation and rights management.
+  </p>
+  <p>
+    I am seeking an opportunity to apply my knowledge and experience in exciting projects, working with a team of dedicated professionals. I would be glad to contribute and help achieve success in software development.
+  </p>
+</body>
+</html>
